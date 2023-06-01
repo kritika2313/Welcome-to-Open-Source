@@ -758,6 +758,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
         </tr>
         <tr>
+        <td align="center">
+                <a href="https://github.com/kritika2313">
+                    <img src="https://avatars.githubusercontent.com/u/92994108?v=4" width="100px;" alt="Preeti Raj"/>
+                    <br />
+                    <sub><b>Preeti Raj</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/MuGrahiman">
                     <img src="https://avatars.githubusercontent.com/u/113975668?s=400&u=ba14f0eb6491f65e5589d5db3d6c342af09aed17&v=4" width="100px;" alt="MuGrahiman"/>
@@ -1709,13 +1716,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
-            <td align="center">
-                <a href="https://github.com/kritika2313">
-                    <img src="https://avatars.githubusercontent.com/u/92994108?v=4" width="100px;" alt="Preeti Raj"/>
-                    <br />
-                    <sub><b>Preeti Raj</b></sub>
-                </a>
-            </td>
+            
         </tr>
     </tbody>
 </table>
